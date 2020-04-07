@@ -89,4 +89,6 @@ projects:
     path: WorldMerge/
   WorldShift:
     path: WorldShift/
+  PMLuckyBlocks:
+    path: PMLuckyBlocks/
 ...
